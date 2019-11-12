@@ -1,5 +1,7 @@
-# PROJECT-1
-EVA SESSION-1 ASSIGNMENT
+## EVA SESSION-1 ASSIGNMENT
+
+# Assignment 1A
+The file consists of demonstration of simple Image Processing like Edge detection, image blurring, sharpening etc
 # Assignment 1B
 
 ## 1.What are Channels and Kernels (according to EVA)?
